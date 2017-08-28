@@ -1,0 +1,12 @@
+[package]
+name = "shps4rust"
+version = "0.1.0"
+authors = ["Marco Alka <me@marco-alka.de"]
+description = "Application Pipeline System"
+keywords = ["shps"]
+
+homepage = "https://shps.io/"
+repository = "https://github.com/Skellods-Network/SHPS4Rust"
+
+readme = "README.md"
+license = "MPL-2.0"
