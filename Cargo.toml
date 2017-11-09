@@ -10,3 +10,7 @@ repository = "https://github.com/Skellods-Network/SHPS4Rust"
 
 readme = "README.md"
 license = "MPL-2.0"
+
+[dependencies]
+error-chain = "0"
+commander = "0"
